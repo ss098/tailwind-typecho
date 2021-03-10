@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+
+
+.prose img {
+    @apply rounded-lg;
+}
+
+.avatar {
+    @apply rounded-xl object-cover;
+}
