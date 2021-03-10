@@ -1,7 +1,7 @@
 <?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
 <?php $this->need('header.php'); ?>
 
-<div class="prose my-4">
+<div class="prose prose-indigo my-4">
     <h1>
         <?php $this->title() ?>
     </h1>
