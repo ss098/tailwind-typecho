@@ -10,7 +10,7 @@
         ), '', ' - '); ?><?php $this->options->title(); ?></title>
 
     <meta charset="<?php $this->options->charset(); ?>">
-    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">
+    <meta name="viewport" content="width=device-width,initial-scale=1,user-scalable=no">
 
     <link rel="stylesheet" href="<?php $this->options->themeUrl('app.min.css'); ?>" />
 
@@ -48,5 +48,5 @@
         </div>
     </div>
 
-    <div class="flex-1 max-w-4xl mx-auto p-4">
+    <div class="flex-1 max-w-4xl justify-center p-4">
 

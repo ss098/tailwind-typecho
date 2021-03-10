@@ -2,8 +2,6 @@
 @tailwind utilities;
 @tailwind components;
 
-
-
 .prose img {
     @apply rounded-lg;
 }
