@@ -1,4 +1,5 @@
 <?php if (!defined('__TYPECHO_ROOT_DIR__')) exit; ?>
+        </div>
     </div>
 
     <footer class="container mx-auto py-4 text-center space-y-2 text-gray-900">

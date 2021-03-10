@@ -19,7 +19,7 @@
 </head>
 <body>
 
-<div class="flex flex-col min-h-screen">
+<div class="flex flex-col justify-center min-h-screen">
     <div class="border-b">
         <div class="flex items-center justify-between max-w-4xl px-4 py-2 mx-auto">
             <div class="flex items-center space-x-4">
@@ -48,5 +48,6 @@
         </div>
     </div>
 
-    <div class="flex-1 max-w-4xl justify-center p-4">
+    <div class="flex-1 flex justify-center p-4">
+        <div class="max-w-4xl">
 
