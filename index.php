@@ -14,7 +14,7 @@ $this->need('header.php');
 
 <div class="space-y-4">
     <?php while ($this->next()): ?>
-        <div class="space-y-4 group border border-gray-200 rounded px-4 py-6">
+        <div class="space-y-4 group px-4 py-6">
             <a href="<?php $this->permalink() ?>" class="block space-y-4">
                 <h1 class="block font-bold text-xl text-gray-700 text-gray-700 group-hover:text-gray-900">
                     <?php $this->title() ?>
